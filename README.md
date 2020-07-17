@@ -25,6 +25,7 @@ __Building up on on-going current work:__
 ▪	▪	looking into open access, open source and free culture from a space/time specific approach, taking the conditions into account that enable or block generative processes.. 
 
 
+
 >Q: What are impossible, desirable and absurd, experimental and utopian (extra-)legal models for the future of authorship?
 
 >Can we invent licences that are based on collective creative practices, in which cooperation between machine and biological authors, need not be an exception?
@@ -33,19 +34,21 @@ In what way can we limit predatory practices without blocking the generative pot
 What would a decolonial and feminist license look like, and in what way could we propose entangled notions of authorship?
 Or perhaps we should think of very different strategies? — Authors of the Future, an ongoing conversation initiated by Constant (2019-)
 
-- - - 
-
-__FORMAT__
-
-_for the event:_ a score and performance;
-_for the exhibition:_ online documentation and printed matter;
-
-- - - 
-
-__on the making__
 
 
-▪	▪	[score draft soon]()
+_further references:_
+
+<img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/Situationist-International-publication-statement-1959.png" width="300">
+<img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/Principia-Discordia-1979.png" width="300">
+<img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/FLUXUS-Ben-Vautier.png" width="300">
+
+
+▪	[Fluxus](https://www.thing.net/~grist/ld/fluxusworkbook.pdf);
+
+▪	[Trisha Brown - Accumulation Piece](https://trishabrowncompany.org/repertory/accumulation-1.html);
+
+▪	[OPEN SCORES. How to program the Commons](https://www.panke.gallery/exhibition/open-scores/)
+
 
 
 - - - 
@@ -73,10 +76,18 @@ _Keywording:_
 ▪	attach/impose/set conditions;
 
 
-_References:_
+- - - 
 
-▪	[Fluxus](https://www.thing.net/~grist/ld/fluxusworkbook.pdf);
+__FORMAT__
 
-▪	[Trisha Brown - Accumulation Piece](https://trishabrowncompany.org/repertory/accumulation-1.html);
+_for the event:_ a score and performance;
+_for the exhibition:_ online documentation and printed matter;
 
-▪	[OPEN SCORES. How to program the Commons](https://www.panke.gallery/exhibition/open-scores/)
+- - - 
+
+__on the making__
+
+
+▪	▪	[score draft soon]()
+
+
