@@ -1,13 +1,7 @@
 ## copy {only} if: < copying acts > / < acts of copying >
 
-a live coding piece and score for VII Artishok Biennial by [Joana Chicau](https://www.joanachicau.com/joana_chicau_cv.pdf)
-
-__Bio__
-
-Joana Chicau is a graphic designer, coder, independent researcher — with a background in dance.
-Chicau designs web based computational systems to construct new scenarios, imaginaries and hypothesis guided by choreographic concepts. Privileging open source tools and investigation through feminist lens, she combines real-time algorithmic composition & movement studies to rethink participation and different conditions for affective interfacing of bodies and technologies. 
-She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.  
-Recent work, news and updates: www.joanachicau.com
+a live coding piece and score for VII Artishok Biennial 2020 by [Joana Chicau](https://www.joanachicau.com/joana_chicau_cv.pdf) — a graphic designer, coder, independent researcher — with a background in dance. Chicau designs web based computational systems to construct new scenarios, imaginaries and hypothesis guided by choreographic concepts. Privileging open source tools and investigation through feminist lens, she combines real-time algorithmic composition & movement studies to rethink participation and different conditions for affective interfacing of bodies and technologies. 
+She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.Recent work, news and updates: www.joanachicau.com
 
 __Building up on on-going current work:__ 
 
