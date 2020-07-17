@@ -4,7 +4,7 @@ is a live coding piece and score for VII Artishok Biennial 2020 by [Joana Chicau
 
 __Building up on on-going current work:__ 
 
-▪	[live coding](https://jobcb.github.io/) practice:
+▪	live coding practice [see more info here](https://jobcb.github.io/):
 
 ▪	▪	merging choreographic language concepts with web programming;
     
@@ -18,7 +18,7 @@ __Building up on on-going current work:__
 >"Web interfaces - with all of its properties, designed intentions and ideologies - become an experimental stage for bringing into shared consciousness the physicality of code & the corporeality of the machine." 
     
 
-▪	research on [copyleft movement](https://vvvvvvaria.org/~mb/generative-conditions/) 
+▪	research on copyleft movement [see more info here](https://vvvvvvaria.org/~mb/generative-conditions/) 
 
 ▪	▪	open licenses, questioning and rethinking notions that often appear in these techno-legal documents, such as freedom, openness and universal scales;
     
