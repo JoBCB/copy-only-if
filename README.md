@@ -38,7 +38,9 @@ Or perhaps we should think of very different strategies? — Authors of the Futu
 
 _further references:_
 
-<img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/Situationist-International-publication-statement-1959.png" width="300"><img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/Principia-Discordia-1979.png" width="300"><img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/FLUXUS-Ben-Vautier.png" width="350">
+<img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/Situationist-International-publication-statement-1959.png" width="350"><img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/FLUXUS-Ben-Vautier.png" width="350">
+
+<img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/Principia-Discordia-1979.png" width="300"> <img src="https://vvvvvvaria.org/~mb/generative-conditions/proto-copyleft/Tiny-BASIC-1976.png" width="300">
 
 
 ▪	[Fluxus](https://www.thing.net/~grist/ld/fluxusworkbook.pdf);
