@@ -1,4 +1,4 @@
-## copy {only} if: <copying acts> / <acts of copying>
+## copy {only} if: < copying acts > / < acts of copying >
 
 a live coding piece and score for VII Artishok Biennial by [Joana Chicau](https://www.joanachicau.com/joana_chicau_cv.pdf)
 
