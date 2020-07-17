@@ -1,11 +1,10 @@
 ## copy {only} if: < copying acts > / < acts of copying >
 
-a live coding piece and score for VII Artishok Biennial 2020 by [Joana Chicau](www.joanachicau.com) — a graphic designer, coder, independent researcher — with a background in dance. Chicau designs web based computational systems to construct new scenarios, imaginaries and hypothesis guided by choreographic concepts. Privileging open source tools and investigation through feminist lens, she combines real-time algorithmic composition & movement studies to rethink participation and different conditions for affective interfacing of bodies and technologies. 
-She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.Recent work, news and updates: https://www.joanachicau.com/joana_chicau_cv.pdf
+is a live coding piece and score for VII Artishok Biennial 2020 by [Joana Chicau](www.joanachicau.com) — a graphic designer, coder, independent researcher — with a background in dance. Chicau designs web based computational systems to construct new scenarios, imaginaries and hypothesis guided by choreographic concepts. Privileging open source tools and investigation through feminist lens, she combines real-time algorithmic composition & movement studies to rethink participation and different conditions for affective interfacing of bodies and technologies. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.Recent work, news and updates: https://www.joanachicau.com/joana_chicau_cv.pdf
 
 __Building up on on-going current work:__ 
 
-▪	the format of [live coding](https://jobcb.github.io/)
+▪	[live coding](https://jobcb.github.io/) practice:
 
 ▪	▪	merging choreographic language concepts with web programming;
     
@@ -33,6 +32,20 @@ How could attribution be a form of situated genealogy, rather than accounting fo
 In what way can we limit predatory practices without blocking the generative potential of Free Culture?
 What would a decolonial and feminist license look like, and in what way could we propose entangled notions of authorship?
 Or perhaps we should think of very different strategies? — Authors of the Future, an ongoing conversation initiated by Constant (2019-)
+
+- - - 
+
+__FORMAT__
+
+_for the event:_ a score and performance;
+_for the exhibition:_ online documentation and printed matter;
+
+- - - 
+
+__on the making__
+
+
+▪	▪	[score draft soon]()
 
 
 - - - 
