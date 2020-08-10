@@ -53,17 +53,17 @@ _further references:_
 
 --
 
-In digital software culture “copy” is used in two different ways in the context of file management and as a new phase of cultural reproduction and as part of copy/paste a cultural technique and aesthetic principle. The two lineages constantly overlap in the modern history of media technologies, where copying, the verb, designates a shift in the cultural techniques of reproduction from humans to machines, and copy, as a noun, presents itself as the key mode of becoming object of digital culture as easily reproducible  and  distributed  packages of cultural memory. 
-[...]  
-Copying  the  product  (mechanical  reproduction  technologies of modernity) evolves into copying the instructions for manufacturing (computer programs as such recipes of production). In other words, not only  copying  copies,  but  more  fundamentally  copying  copying  itself.
-[...]  
-Contemporary forms of copy are intimately tied to the consumer market and the commercial milieu of the digital culture (especially the inter-net), whereas the work done by monks was part of the theological networks where God, in theory, played the key mediator (and the final guarantor of  mimesis) instead of, for example, Sony BMG or Microsoft. Theological issues defined the importance of what was copied and preserved, whereas nowadays the right to copy and to reproduce culture is to a large extent owned by global media  companies. This  illustrates  how  copying is an  issue  of  politics  in  the  sense that by control of copying (especially with technical and juridical power) cultural production is also hierarchized and controlled.
-[...]  
-Similarly for Kittler, “The internet is a  point-to-point  transmission system copying almost infallibly not from men to men, but, quite to the contrary, from machine to machine.”
-[...]
-Copying  is  not  merely  reproducing  the  same  as  discrete objects, but coding cultural products into discrete data and communicating such coded copies across networks: seeding and culturing.
+> In digital software culture “copy” is used in two different ways in the context of file management and as a new phase of cultural reproduction and as part of copy/paste a cultural technique and aesthetic principle. The two lineages constantly overlap in the modern history of media technologies, where copying, the verb, designates a shift in the cultural techniques of reproduction from humans to machines, and copy, as a noun, presents itself as the key mode of becoming object of digital culture as easily reproducible  and  distributed  packages of cultural memory. 
+> [...]  
+> Copying  the  product  (mechanical  reproduction  technologies of modernity) evolves into copying the instructions for manufacturing (computer programs as such recipes of production). In other words, not only  copying  copies,  but  more  fundamentally  copying  copying  itself.
+> [...]  
+> Contemporary forms of copy are intimately tied to the consumer market and the commercial milieu of the digital culture (especially the inter-net), whereas the work done by monks was part of the theological networks where God, in theory, played the key mediator (and the final guarantor of  mimesis) instead of, for example, Sony BMG or Microsoft. Theological issues defined the importance of what was copied and preserved, whereas nowadays the right to copy and to reproduce culture is to a large extent owned by global media  companies. This  illustrates  how  copying is an  issue  of  politics  in  the  sense that by control of copying (especially with technical and juridical power) cultural production is also hierarchized and controlled.
+> [...]  
+> Similarly for Kittler, “The internet is a  point-to-point  transmission system copying almost infallibly not from men to men, but, quite to the contrary, from machine to machine.”
+> [...]
+> Copying  is  not  merely  reproducing  the  same  as  discrete objects, but coding cultural products into discrete data and communicating such coded copies across networks: seeding and culturing.
 
-_from Copy, Jussi Parikka in Software Studies, A Lexicon edited by Matthew Fuller_
+> _from Copy, Jussi Parikka in Software Studies, A Lexicon edited by Matthew Fuller_
 
 - - - 
 
