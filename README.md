@@ -96,7 +96,7 @@ __FORMAT__
 
 ▪ _for the event:_ a printed score and audio-visual performance; 
 
-▪	▪ thoughts on location: an insitution that triggers notion of public/private; and intellectual property like a library?
+▪	▪ thoughts on location: an institution that triggers notion of public/private; and intellectual property like a library?
 
 ▪ _for the exhibition:_ online video documentation and printed matter;
 
