@@ -1,0 +1,82 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>copy {only} if: copying acts  / acts of copying</title>
+  <meta name="description" content="Copy Gestures">
+  <meta name="author" content="Joana Chicau">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="">
+
+	<style type="text/css">
+		body{
+		  	background-repeat: repeat;
+  			background-attachment: fixed;  
+  			background-size: cover;
+		}
+		img{
+			width: 100%;
+			height: auto;
+		}
+		img #myCopy{
+			margin: auto;
+			width: 50%;
+			height: auto;			
+		}
+		.copyof{
+			
+		}
+	</style>
+
+</head>
+
+<body style="background-image: url('');">
+
+<div id="copyAll">
+	
+	<div class="copyof">
+		<p></p>
+	</div>
+
+	<div class="copyof">
+		<img src="">
+	</div>
+
+	<div class="copyof">
+<!-- 		<iframe src="" width="100%" height="300" style="border:none;">
+ -->	</div>
+
+	<div class="copyof"> 
+		<audio controls autoplay="true">
+	  		<source src="" type="audio/ogg">
+	  		<source src="" type="audio/mpeg">
+		</audio>
+	</div>
+
+</div>
+
+<script>
+
+var xMax, yMax, xNeg=0, yNeg=1;
+
+function move () {
+  	  window.scrollBy(5 * xNeg, 5 * yNeg);
+    	if(xMax == window.scrollX)xNeg = xNeg * 1;
+    	if(yMax == window.scrollY)yNeg = xNeg * -1;
+    	scrolldelay = setTimeout(circulation_of_affects,100);
+    	console.log(window.scrollY);
+    	xMax = window.scrollX;
+    	yMax = window.scrollY;
+}
+// move () 
+
+function copyAll() {
+  var elmnt = document.getElementsByTagName("DIV")[0];
+  var cln = elmnt.cloneNode(true);
+  document.body.appendChild(cln);
+}
+// setInterval("copyAll()",600)
+
+</script>
+</body>
+</html>
