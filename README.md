@@ -106,6 +106,6 @@ __FORMAT__
 __on the making__
 
 
-▪	▪	[score draft soon]()
+▪	▪	[score draft](https://github.com/JoBCB/copy-only-if/blob/master/score.md)
 
-
+▪	▪	[script draft](https://github.com/JoBCB/copy-only-if/blob/master/acts-of-copying.html)
