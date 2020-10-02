@@ -9,74 +9,105 @@
   <link rel="stylesheet" href="">
 
 	<style type="text/css">
-		body{
-		  	background-repeat: repeat;
-  			background-attachment: fixed;  
-  			background-size: cover;
-		}
-		img{
-			width: 100%;
-			height: auto;
-		}
-		img #myCopy{
-			margin: auto;
-			width: 50%;
-			height: auto;			
-		}
-		.copyof{
-			
+		p{
+			font-family: serif;
+			font-style: bold;
+			font-size: 14vw;
+			line-height: 12vw;
+			margin: 50vh 1vh 50vh 1vh;
 		}
 	</style>
 
 </head>
 
-<body style="background-image: url('');">
+<body>
 
 <div id="copyAll">
 	
-	<div class="copyof">
-		<p></p>
-	</div>
-
-	<div class="copyof">
-		<img src="">
-	</div>
-
-	<div class="copyof">
-<!-- 		<iframe src="" width="100%" height="300" style="border:none;">
- -->	</div>
-
-	<div class="copyof"> 
-		<audio controls autoplay="true">
-	  		<source src="" type="audio/ogg">
-	  		<source src="" type="audio/mpeg">
-		</audio>
-	</div>
-
+<div id="copyAll">
+<p> if registered; </p>
+<p>	if within the law; </p>
+<p>	if without it; </p>
+<p>	if arbitrarily; </p>
+<p>	if not for spam; </p>
+<p>	if permitted; </p>
+<br><br><br><br> 	   
+<p>	if sustainably;  </p>
+<p>	if you have enough battery; </p>
+<p>	if not hurting natural resources, such as deforestation; </p>
+<p>	if not for the purpose of extracting oil, gas or coal; </p>
+<p>	if not for the purpose of discrimination, including hate speech towards discrimination of others on the basis of sex, gender, age, race, disability, nationality, religion, economic status …
+<p>	if respecting human rights; </p>
+<p>	if no copyright; </p>
+<p>	if no copywrong; </p>
+<p>	if apolitical; </p>
+<p>	if anytime; </p>
+<p>	if for long enough; </p>
+<p>	if briefly; </p>
+<p>	if in the past year; </p>
+<p>	if in the past week; </p>
+<p>	if in the past month; </p>
+<br><br><br><br>	    
+<p>	if online; </p>
+<p>	if offline; </p>
+<p>	if within the line; </p>
+<p>	if beyond; </p>
+<p>	if as you imagine; </p>
+<br><br><br><br><br><br> 
+<p>	if LARGE; </p>
+<br><br><br><br>	    
+<p>	if with your eyes closed; </p>
+<p>	if freely; </p>
+<p>	if for free; </p>
+<p>	if non commercial; </p>
+<p>	if not for profit; </p>
+<p>	if for personal use; </p>
+<p>	if non personal; </p>
+<p>	if not alone; </p>
+<p>	if publicly; </p>
+<p>	if not for art; </p>
+<p>	if for all; </p>
+<p>	if not for them; </p>
+<p>	if in black and white; </p>
+<br><br><br><br> 	     
+<p>	if absolute privilege; </p>
+<p>	if only with attribution; </p>
+<p>	if share alike; </p>
+<p>	if in another language; </p>
+<br><br><br><br>  
+<p>	if you trust;  </p>
+<p>	if with care; </p>
+<p>	if you remember; </p>
+<p>	if you don’t look back; </p>
+<p>	if not here; </p>
+<p>	if it rains; </p>
+<p>	if thrown into circulation </p>
+<p>	or if while dancing the rhythm of copying.. </p>
+<p>	if you contribute back to the source; </p>	
 </div>
 
 <script>
-
 var xMax, yMax, xNeg=0, yNeg=1;
 
 function move () {
-  	window.scrollBy(5 * xNeg, 5 * yNeg);
+  	  window.scrollBy(5 * xNeg, 5 * yNeg);
     	if(xMax == window.scrollX)xNeg = xNeg * 1;
     	if(yMax == window.scrollY)yNeg = xNeg * -1;
-    	scrolldelay = setTimeout(move,100);
-    	console.log(window.scrollY);
+    	scrolldelay = setTimeout(move,50);
+    	console.log("moving", window.scrollY);
     	xMax = window.scrollX;
     	yMax = window.scrollY;
 }
-// move () 
+move () 
+
 
 function copyAll() {
   var elmnt = document.getElementsByTagName("DIV")[0];
   var cln = elmnt.cloneNode(true);
   document.body.appendChild(cln);
+  console.log("and copying")
 }
-// setInterval("copyAll()",600)
-
+setInterval("copyAll()",300000)
 </script>
 </body>
 </html>
