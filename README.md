@@ -105,4 +105,7 @@ __FORMAT__
 
 __on the making__
 
-▪	[score & script draft](https://github.com/JoBCB/copy-only-if/blob/master/acts-of-copying.html) — gallery interface;
+▪	[score & script draft](https://github.com/JoBCB/copy-only-if/blob/master/acts-of-copying.html) — for both the performance and gallery piece;
+
+
+![Image documentation of running script and interface](https://raw.githubusercontent.com/JoBCB/copy-only-if/master/ScreenShot-Copy-Chicau-01.png)
