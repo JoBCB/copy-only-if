@@ -105,7 +105,7 @@ __FORMAT__
 
 __on the making__
 
-##copy {only} if: < copying acts > / < acts of copying >
+## copy {only} if: < copying acts > / < acts of copying >
 
 The piece is both a programming script that copies itself and displays the conditions within which it can operate.
 
