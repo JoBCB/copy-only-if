@@ -21,7 +21,8 @@
 </head>
 
 <body>
-
+<audio id="voice" src="Artichok-Audio-v01.mp3" autoplay loop preload></audio>
+	
 <div id="copyAll">
 	
 <div id="copyAll">
@@ -87,6 +88,10 @@
 </div>
 
 <script>
+var vid = document.getElementById("voice");
+vid.playbackRate = 1.30; 
+
+
 var xMax, yMax, xNeg=0, yNeg=1;
 
 function move () {
